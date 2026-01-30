@@ -60,29 +60,29 @@ npm start
 📖 How to Use
 🧮 Using the Counter:
 
-1.Click "➕ Increment" to increase the count
+1. Click "➕ Increment" to increase the count
 
-2.Click "➖ Decrement" to decrease the count
+2. Click "➖ Decrement" to decrease the count
 
-3.Click "🔄 Reset" to return to zero
+3. Click "🔄 Reset" to return to zero
 
-4.Watch the counter update in real-time
+4. Watch the counter update in real-time
 
 ---
 
 📝 Using the Contact Form:
 
-1.Enter your name in the first field
+1. Enter your name in the first field
 
-2.Provide a valid email address
+2. Provide a valid email address
 
-3.Type your message in the textarea
+3. Type your message in the textarea
 
-4.Click "📤 Send Message" to submit
+4. Click "📤 Send Message" to submit
 
-5.Receive ✅ success confirmation
+5. Receive ✅ success confirmation
 
-6.Form automatically resets
+6. Form automatically resets
 
 ---
 
@@ -109,3 +109,17 @@ react-counter-form-app/
 ├── 📖 README.md               # This file
 
 └── ⚙️ .gitignore              # Git ignore rules
+
+---
+
+**🔧 Key Code Examples:**
+
+**🪝 useState Hook:**
+
+const [count, setCount] = useState(0);
+
+const increment = () => setCount(count + 1);
+
+const decrement = () => setCount(count - 1);
+
+const reset = () => setCount(0);
