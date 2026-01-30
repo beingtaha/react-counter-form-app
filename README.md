@@ -4,11 +4,6 @@ A React application demonstrating **state management** and **form handling** usi
 
 ---
 
-## 🚀 Live Demo
-*Coming soon...*
-
----
-
 ## ✨ Features
 
 ### 🧮 Counter Component
@@ -59,3 +54,28 @@ npm start
 
 # 5. Open in browser
 # Visit: http://localhost:3000
+
+---
+
+📖 How to Use
+🧮 Using the Counter:
+Click "➕ Increment" to increase the count
+
+Click "➖ Decrement" to decrease the count
+
+Click "🔄 Reset" to return to zero
+
+Watch the counter update in real-time
+
+📝 Using the Contact Form:
+Enter your name in the first field
+
+Provide a valid email address
+
+Type your message in the textarea
+
+Click "📤 Send Message" to submit
+
+Receive ✅ success confirmation
+
+Form automatically resets
