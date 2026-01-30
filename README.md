@@ -94,16 +94,15 @@ react-counter-form-app/
 
 ├── 📁 src/                    # Source code
 
-│   
-    ├── 🎯 App.js              # Main application
-│   
-    ├── 🎨 App.css             # Global styles
-│   
-    ├── 🧮 Counter.js          # Counter component
-│   
-    ├── 📝 ContactForm.js      # Form component
-│   
-    └── ⚡ index.js            # App entry point
+│   ├── 🎯 App.js              # Main application
+
+│   ├── 🎨 App.css             # Global styles
+
+│   ├── 🧮 Counter.js          # Counter component
+
+│   ├── 📝 ContactForm.js      # Form component
+
+│   └── ⚡ index.js            # App entry point
 
 ├── 📦 package.json            # Dependencies
 
