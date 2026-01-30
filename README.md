@@ -57,7 +57,6 @@ npm start
 
 ---
 
-📖 How to Use
 🧮 Using the Counter:
 
 1. Click "➕ Increment" to increase the count
@@ -117,8 +116,11 @@ react-counter-form-app/
 **🪝 useState Hook:**
 
 const [count, setCount] = useState(0);
+
 const increment = () => setCount(count + 1);
+
 const decrement = () => setCount(count - 1);
+
 const reset = () => setCount(0);
 
 ---
@@ -126,34 +128,49 @@ const reset = () => setCount(0);
 **📝 Form Handling:**
 
 const [formData, setFormData] = useState({
+  
   name: '',
+  
   email: '',
+  
   message: ''
+
 });
 
 ---
 
 📸 Screenshots
-https://screenshot.png
+![App Screenshot](screenshot.PNG)
 
 ---
 
 **🎯 Learning Outcomes:**
 
-✅ State Management with useState hook
-✅ Event Handling in React components
-✅ Form Validation and controlled inputs
-✅ Component Architecture and reusability
-✅ Responsive Design principles
-✅ Modern UI/UX implementation
+✅ State Management with useState hook.
+
+✅ Event Handling in React components.
+
+✅ Form Validation and controlled inputs.
+
+✅ Component Architecture and reusability.
+
+✅ Responsive Design principles.
+
+✅ Modern UI/UX implementation.
+
 
 ---
 
-👨‍💻 Author
+**👨‍💻 Author**
+
 Taha Ahmed
+
 🎓 Internship ID: JAN26-FE14-14
+
 🏢 Appverse Technologies Intern
+
 📧 tahaahmed434@gmail.com
+
 🔗 https://www.linkedin.com/in/taha-ahmed-402822152/
 
 ---
