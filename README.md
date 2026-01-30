@@ -117,9 +117,48 @@ react-counter-form-app/
 **🪝 useState Hook:**
 
 const [count, setCount] = useState(0);
-
 const increment = () => setCount(count + 1);
-
 const decrement = () => setCount(count - 1);
-
 const reset = () => setCount(0);
+
+---
+
+**📝 Form Handling:**
+
+const [formData, setFormData] = useState({
+  name: '',
+  email: '',
+  message: ''
+});
+
+---
+
+📸 Screenshots
+https://screenshot.png
+
+---
+
+**🎯 Learning Outcomes:**
+
+✅ State Management with useState hook
+✅ Event Handling in React components
+✅ Form Validation and controlled inputs
+✅ Component Architecture and reusability
+✅ Responsive Design principles
+✅ Modern UI/UX implementation
+
+---
+
+👨‍💻 Author
+Taha Ahmed
+🎓 Internship ID: JAN26-FE14-14
+🏢 Appverse Technologies Intern
+📧 tahaahmed434@gmail.com
+🔗 https://www.linkedin.com/in/taha-ahmed-402822152/
+
+---
+
+📄 License
+This project is created for educational purposes as part of the Appverse Technologies Internship Program.
+
+⭐ Star this repo if you find it helpful!
